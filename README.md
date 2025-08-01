@@ -99,8 +99,8 @@ If you're learning Python and want to improve this project, feel free to fork it
 I'm building a series of projects to become job-ready as a Python developer in Pakistan.
 Follow my journey on:
 
-* 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-* 🐍 [GitHub](https://github.com/yourusername)
+* 🔗 [LinkedIn](https://linkedin.com/in/ayazali75)
+* 🐍 [GitHub](https://github.com/Ayaz-75)
 
 ---
 
