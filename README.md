@@ -23,9 +23,9 @@ This contact book helps users manage their phone contacts directly from the term
 ✅ Exit the program gracefully  
 
 Each contact stores the following information:
-- *Name*
-- *Phone number (with country code)*
-- *Email address*
+- Name
+- Phone number (with country code)
+- Email address
 
 ---
 
