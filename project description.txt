@@ -1,0 +1,47 @@
+## 🟨 **Stage 1 – Project 2: Mini Contact Book (Console App)**
+
+### 🧠 Project Overview:
+
+This is a menu-driven Python application where users can:
+
+* Add new contacts
+* View all contacts
+* Search contacts by name
+* Delete contacts
+* Exit the program
+
+All done in a **simple console interface**.
+
+---
+
+### 📌 Requirements Breakdown:
+
+| Feature          | Details                                        |
+| ---------------- | ---------------------------------------------- |
+| `Add Contact`    | Input name, phone number, and optionally email |
+| `View Contacts`  | List all contacts with details                 |
+| `Search Contact` | Search by name and return their info           |
+| `Delete Contact` | Delete a contact by name                       |
+| `Exit`           | Exit the program gracefully                    |
+
+---
+
+### 🛠️ Technologies/Concepts to Practice:
+
+* Python dictionaries
+* Loops and conditionals
+* Functions
+* Input validation
+
+---
+
+### 🧾 Optional Enhancements (After Base Version):
+
+* Save contacts to a `.txt` or `.json` file
+* Load saved contacts when program starts
+* Avoid duplicate entries
+* Case-insensitive search
+
+---
+
+
